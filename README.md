@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿
-<img src='https://www.loom.com/share/bb845a55ea0a40da9a5e52884aabf9ca?sid=f6e56046-6b14-4eb0-8542-32e3bb36327c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿https://www.loom.com/share/bb845a55ea0a40da9a5e52884aabf9ca?sid=f6e56046-6b14-4eb0-8542-32e3bb36327c
 
 
 <!-- Replace this with whatever GIF tool you used! -->
